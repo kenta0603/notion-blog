@@ -1,0 +1,9 @@
+.horizontal-line-wrap {
+  margin: 16px 0;
+}
+
+.horizontalLine {
+  border: none;
+  border-top: 2px solid #ccc;
+  margin: 24px 0;
+}
